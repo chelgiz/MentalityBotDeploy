@@ -1,5 +1,5 @@
 aiogram==3.4.1
-openai==1.23.2
+openai==1.55.3
 matplotlib
 pillow
 python-dotenv
